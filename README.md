@@ -1,5 +1,9 @@
 # Social-Media-App
 A social media program that allows the users to communicate with another asynchronously using sockets in C.
+
+Example run of the app:
+![image](https://github.com/Dev301203/Social-Media-App/assets/104722753/7aca8145-f45f-40f6-ab09-1346053cc9be)
+
 ## Instructions to Run
 ### Setup Server
 In the Makefile, update the port to be set to what port number you want the server to run on.
